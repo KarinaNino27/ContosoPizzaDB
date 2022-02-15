@@ -1,0 +1,74 @@
+D:\ITSUR\8vo\Web\2\Proyectos\W85B-PROGR.-WEB-II-EJ22\ContosoPizza\bin\Debug\net6.0\appsettings.Development.json
+D:\ITSUR\8vo\Web\2\Proyectos\W85B-PROGR.-WEB-II-EJ22\ContosoPizza\bin\Debug\net6.0\appsettings.json
+D:\ITSUR\8vo\Web\2\Proyectos\W85B-PROGR.-WEB-II-EJ22\ContosoPizza\bin\Debug\net6.0\ContosoPizza.exe
+D:\ITSUR\8vo\Web\2\Proyectos\W85B-PROGR.-WEB-II-EJ22\ContosoPizza\bin\Debug\net6.0\ContosoPizza.deps.json
+D:\ITSUR\8vo\Web\2\Proyectos\W85B-PROGR.-WEB-II-EJ22\ContosoPizza\bin\Debug\net6.0\ContosoPizza.runtimeconfig.json
+D:\ITSUR\8vo\Web\2\Proyectos\W85B-PROGR.-WEB-II-EJ22\ContosoPizza\bin\Debug\net6.0\ContosoPizza.dll
+D:\ITSUR\8vo\Web\2\Proyectos\W85B-PROGR.-WEB-II-EJ22\ContosoPizza\bin\Debug\net6.0\ref\ContosoPizza.dll
+D:\ITSUR\8vo\Web\2\Proyectos\W85B-PROGR.-WEB-II-EJ22\ContosoPizza\bin\Debug\net6.0\ContosoPizza.pdb
+D:\ITSUR\8vo\Web\2\Proyectos\W85B-PROGR.-WEB-II-EJ22\ContosoPizza\bin\Debug\net6.0\Humanizer.dll
+D:\ITSUR\8vo\Web\2\Proyectos\W85B-PROGR.-WEB-II-EJ22\ContosoPizza\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ITSUR\8vo\Web\2\Proyectos\W85B-PROGR.-WEB-II-EJ22\ContosoPizza\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITSUR\8vo\Web\2\Proyectos\W85B-PROGR.-WEB-II-EJ22\ContosoPizza\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITSUR\8vo\Web\2\Proyectos\W85B-PROGR.-WEB-II-EJ22\ContosoPizza\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITSUR\8vo\Web\2\Proyectos\W85B-PROGR.-WEB-II-EJ22\ContosoPizza\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ITSUR\8vo\Web\2\Proyectos\W85B-PROGR.-WEB-II-EJ22\ContosoPizza\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\ITSUR\8vo\Web\2\Proyectos\W85B-PROGR.-WEB-II-EJ22\ContosoPizza\bin\Debug\net6.0\MySqlConnector.dll
+D:\ITSUR\8vo\Web\2\Proyectos\W85B-PROGR.-WEB-II-EJ22\ContosoPizza\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\ITSUR\8vo\Web\2\Proyectos\W85B-PROGR.-WEB-II-EJ22\ContosoPizza\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ITSUR\8vo\Web\2\Proyectos\W85B-PROGR.-WEB-II-EJ22\ContosoPizza\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ITSUR\8vo\Web\2\Proyectos\W85B-PROGR.-WEB-II-EJ22\ContosoPizza\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ITSUR\8vo\Web\2\Proyectos\W85B-PROGR.-WEB-II-EJ22\ContosoPizza\obj\Debug\net6.0\ContosoPizza.csproj.AssemblyReference.cache
+D:\ITSUR\8vo\Web\2\Proyectos\W85B-PROGR.-WEB-II-EJ22\ContosoPizza\obj\Debug\net6.0\ContosoPizza.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSUR\8vo\Web\2\Proyectos\W85B-PROGR.-WEB-II-EJ22\ContosoPizza\obj\Debug\net6.0\ContosoPizza.AssemblyInfoInputs.cache
+D:\ITSUR\8vo\Web\2\Proyectos\W85B-PROGR.-WEB-II-EJ22\ContosoPizza\obj\Debug\net6.0\ContosoPizza.AssemblyInfo.cs
+D:\ITSUR\8vo\Web\2\Proyectos\W85B-PROGR.-WEB-II-EJ22\ContosoPizza\obj\Debug\net6.0\ContosoPizza.csproj.CoreCompileInputs.cache
+D:\ITSUR\8vo\Web\2\Proyectos\W85B-PROGR.-WEB-II-EJ22\ContosoPizza\obj\Debug\net6.0\ContosoPizza.MvcApplicationPartsAssemblyInfo.cs
+D:\ITSUR\8vo\Web\2\Proyectos\W85B-PROGR.-WEB-II-EJ22\ContosoPizza\obj\Debug\net6.0\ContosoPizza.MvcApplicationPartsAssemblyInfo.cache
+D:\ITSUR\8vo\Web\2\Proyectos\W85B-PROGR.-WEB-II-EJ22\ContosoPizza\obj\Debug\net6.0\staticwebassets.build.json
+D:\ITSUR\8vo\Web\2\Proyectos\W85B-PROGR.-WEB-II-EJ22\ContosoPizza\obj\Debug\net6.0\staticwebassets.development.json
+D:\ITSUR\8vo\Web\2\Proyectos\W85B-PROGR.-WEB-II-EJ22\ContosoPizza\obj\Debug\net6.0\scopedcss\bundle\ContosoPizza.styles.css
+D:\ITSUR\8vo\Web\2\Proyectos\W85B-PROGR.-WEB-II-EJ22\ContosoPizza\obj\Debug\net6.0\ContosoPizza.csproj.CopyComplete
+D:\ITSUR\8vo\Web\2\Proyectos\W85B-PROGR.-WEB-II-EJ22\ContosoPizza\obj\Debug\net6.0\ContosoPizza.dll
+D:\ITSUR\8vo\Web\2\Proyectos\W85B-PROGR.-WEB-II-EJ22\ContosoPizza\obj\Debug\net6.0\ref\ContosoPizza.dll
+D:\ITSUR\8vo\Web\2\Proyectos\W85B-PROGR.-WEB-II-EJ22\ContosoPizza\obj\Debug\net6.0\ContosoPizza.pdb
+D:\ITSUR\8vo\Web\2\Proyectos\W85B-PROGR.-WEB-II-EJ22\ContosoPizza\obj\Debug\net6.0\ContosoPizza.genruntimeconfig.cache
+C:\Users\karyp\Documents\8vo Semestre\6. Progr. Web ll - Ivan\Unidad 1\tarea\ContosoPizzaDB\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\karyp\Documents\8vo Semestre\6. Progr. Web ll - Ivan\Unidad 1\tarea\ContosoPizzaDB\bin\Debug\net6.0\appsettings.json
+C:\Users\karyp\Documents\8vo Semestre\6. Progr. Web ll - Ivan\Unidad 1\tarea\ContosoPizzaDB\bin\Debug\net6.0\ContosoPizza.exe
+C:\Users\karyp\Documents\8vo Semestre\6. Progr. Web ll - Ivan\Unidad 1\tarea\ContosoPizzaDB\bin\Debug\net6.0\ContosoPizza.deps.json
+C:\Users\karyp\Documents\8vo Semestre\6. Progr. Web ll - Ivan\Unidad 1\tarea\ContosoPizzaDB\bin\Debug\net6.0\ContosoPizza.runtimeconfig.json
+C:\Users\karyp\Documents\8vo Semestre\6. Progr. Web ll - Ivan\Unidad 1\tarea\ContosoPizzaDB\bin\Debug\net6.0\ContosoPizza.dll
+C:\Users\karyp\Documents\8vo Semestre\6. Progr. Web ll - Ivan\Unidad 1\tarea\ContosoPizzaDB\bin\Debug\net6.0\ref\ContosoPizza.dll
+C:\Users\karyp\Documents\8vo Semestre\6. Progr. Web ll - Ivan\Unidad 1\tarea\ContosoPizzaDB\bin\Debug\net6.0\ContosoPizza.pdb
+C:\Users\karyp\Documents\8vo Semestre\6. Progr. Web ll - Ivan\Unidad 1\tarea\ContosoPizzaDB\bin\Debug\net6.0\Humanizer.dll
+C:\Users\karyp\Documents\8vo Semestre\6. Progr. Web ll - Ivan\Unidad 1\tarea\ContosoPizzaDB\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\karyp\Documents\8vo Semestre\6. Progr. Web ll - Ivan\Unidad 1\tarea\ContosoPizzaDB\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\karyp\Documents\8vo Semestre\6. Progr. Web ll - Ivan\Unidad 1\tarea\ContosoPizzaDB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\karyp\Documents\8vo Semestre\6. Progr. Web ll - Ivan\Unidad 1\tarea\ContosoPizzaDB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\karyp\Documents\8vo Semestre\6. Progr. Web ll - Ivan\Unidad 1\tarea\ContosoPizzaDB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\karyp\Documents\8vo Semestre\6. Progr. Web ll - Ivan\Unidad 1\tarea\ContosoPizzaDB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\karyp\Documents\8vo Semestre\6. Progr. Web ll - Ivan\Unidad 1\tarea\ContosoPizzaDB\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\karyp\Documents\8vo Semestre\6. Progr. Web ll - Ivan\Unidad 1\tarea\ContosoPizzaDB\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\karyp\Documents\8vo Semestre\6. Progr. Web ll - Ivan\Unidad 1\tarea\ContosoPizzaDB\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\karyp\Documents\8vo Semestre\6. Progr. Web ll - Ivan\Unidad 1\tarea\ContosoPizzaDB\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\karyp\Documents\8vo Semestre\6. Progr. Web ll - Ivan\Unidad 1\tarea\ContosoPizzaDB\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\karyp\Documents\8vo Semestre\6. Progr. Web ll - Ivan\Unidad 1\tarea\ContosoPizzaDB\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\karyp\Documents\8vo Semestre\6. Progr. Web ll - Ivan\Unidad 1\tarea\ContosoPizzaDB\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\karyp\Documents\8vo Semestre\6. Progr. Web ll - Ivan\Unidad 1\tarea\ContosoPizzaDB\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\karyp\Documents\8vo Semestre\6. Progr. Web ll - Ivan\Unidad 1\tarea\ContosoPizzaDB\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\karyp\Documents\8vo Semestre\6. Progr. Web ll - Ivan\Unidad 1\tarea\ContosoPizzaDB\obj\Debug\net6.0\ContosoPizza.csproj.AssemblyReference.cache
+C:\Users\karyp\Documents\8vo Semestre\6. Progr. Web ll - Ivan\Unidad 1\tarea\ContosoPizzaDB\obj\Debug\net6.0\ContosoPizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karyp\Documents\8vo Semestre\6. Progr. Web ll - Ivan\Unidad 1\tarea\ContosoPizzaDB\obj\Debug\net6.0\ContosoPizza.AssemblyInfoInputs.cache
+C:\Users\karyp\Documents\8vo Semestre\6. Progr. Web ll - Ivan\Unidad 1\tarea\ContosoPizzaDB\obj\Debug\net6.0\ContosoPizza.AssemblyInfo.cs
+C:\Users\karyp\Documents\8vo Semestre\6. Progr. Web ll - Ivan\Unidad 1\tarea\ContosoPizzaDB\obj\Debug\net6.0\ContosoPizza.csproj.CoreCompileInputs.cache
+C:\Users\karyp\Documents\8vo Semestre\6. Progr. Web ll - Ivan\Unidad 1\tarea\ContosoPizzaDB\obj\Debug\net6.0\ContosoPizza.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\karyp\Documents\8vo Semestre\6. Progr. Web ll - Ivan\Unidad 1\tarea\ContosoPizzaDB\obj\Debug\net6.0\ContosoPizza.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\karyp\Documents\8vo Semestre\6. Progr. Web ll - Ivan\Unidad 1\tarea\ContosoPizzaDB\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\karyp\Documents\8vo Semestre\6. Progr. Web ll - Ivan\Unidad 1\tarea\ContosoPizzaDB\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\karyp\Documents\8vo Semestre\6. Progr. Web ll - Ivan\Unidad 1\tarea\ContosoPizzaDB\obj\Debug\net6.0\scopedcss\bundle\ContosoPizza.styles.css
+C:\Users\karyp\Documents\8vo Semestre\6. Progr. Web ll - Ivan\Unidad 1\tarea\ContosoPizzaDB\obj\Debug\net6.0\ContosoPizza.csproj.CopyComplete
+C:\Users\karyp\Documents\8vo Semestre\6. Progr. Web ll - Ivan\Unidad 1\tarea\ContosoPizzaDB\obj\Debug\net6.0\ContosoPizza.dll
+C:\Users\karyp\Documents\8vo Semestre\6. Progr. Web ll - Ivan\Unidad 1\tarea\ContosoPizzaDB\obj\Debug\net6.0\ref\ContosoPizza.dll
+C:\Users\karyp\Documents\8vo Semestre\6. Progr. Web ll - Ivan\Unidad 1\tarea\ContosoPizzaDB\obj\Debug\net6.0\ContosoPizza.pdb
+C:\Users\karyp\Documents\8vo Semestre\6. Progr. Web ll - Ivan\Unidad 1\tarea\ContosoPizzaDB\obj\Debug\net6.0\ContosoPizza.genruntimeconfig.cache

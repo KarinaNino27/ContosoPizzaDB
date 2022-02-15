@@ -1,0 +1,42 @@
+using ContosoPizza.Data;
+using Microsoft.EntityFrameworkCore;
+using Newtonsoft.Json;
+
+var builder = WebApplication.CreateBuilder(args);
+
+
+// Add services to the container.
+
+builder.Services.AddControllers();
+//builder.Services.AddControllersWithViews();
+// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
+var connectionString = builder.Configuration.GetConnectionString("ContosoPizzaDB");
+
+builder.Services.AddDbContext<contosopizzaContext>(
+options =>
+{
+    options.UseMySql(connectionString, Microsoft.EntityFrameworkCore.ServerVersion.AutoDetect(connectionString));
+});
+
+builder.Services.AddMvc(option => option.EnableEndpointRouting = false)
+    .AddNewtonsoftJson(opt => opt.SerializerSettings.ReferenceLoopHandling = ReferenceLoopHandling.Ignore);
+
+var app = builder.Build();
+
+// Configure the HTTP request pipeline.
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
+}
+
+app.UseHttpsRedirection();
+
+app.UseAuthorization();
+
+app.MapControllers();
+
+app.Run();
